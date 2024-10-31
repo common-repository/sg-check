@@ -1,0 +1,168 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: SG Check\n"
+"POT-Creation-Date: 2021-08-14 20:56+0430\n"
+"PO-Revision-Date: 2018-05-08 20:24+0430\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: sg-check.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/class-source-guardian-core.php:40
+#: includes/class-source-guardian-core.php:41
+msgid "Source Guardian Cheker"
+msgstr ""
+
+#: includes/class-source-guardian-core.php:63
+msgid "Unfortunately, server information cannot be accessed!"
+msgstr ""
+
+#: includes/class-source-guardian-core.php:64
+msgid "Contact your hosting provider for more information"
+msgstr ""
+
+#. translators: latest source guardian version
+#: includes/class-source-guardian-core.php:67
+#: includes/class-source-guardian-core.php:100
+#, php-format
+msgid "The latest version is the current version of %s."
+msgstr ""
+
+#: includes/class-source-guardian-core.php:80
+msgid "Source Guardian Loader is not installed !"
+msgstr ""
+
+#: includes/class-source-guardian-core.php:81
+msgid "Ask your host to install and enable it for you"
+msgstr ""
+
+#: includes/class-source-guardian-core.php:82
+#: includes/class-source-guardian-core.php:103
+msgid "more information"
+msgstr ""
+
+#: includes/class-source-guardian-core.php:89
+msgid "Source Guardian Version : "
+msgstr ""
+
+#: includes/class-source-guardian-core.php:96
+msgid "Source Guardian version is outdated !"
+msgstr ""
+
+#: includes/class-source-guardian-core.php:97
+msgid "Ask your hosting provider to update the Source Guardian loader."
+msgstr ""
+
+#: includes/class-source-guardian-core.php:112
+msgid "congratulations ! Source Guardian loaders are up to date"
+msgstr ""
+
+#: includes/class-source-guardian-core.php:113
+msgid "Good luck !"
+msgstr ""
+
+#: includes/class-source-guardian-core.php:129
+msgid "Server OS"
+msgstr ""
+
+#: includes/class-source-guardian-core.php:133
+msgid "Server Software"
+msgstr ""
+
+#: includes/class-source-guardian-core.php:137
+msgid "PHP version"
+msgstr ""
+
+#: includes/class-source-guardian-core.php:138
+msgid "phpversion() function not available!"
+msgstr ""
+
+#: includes/class-source-guardian-core.php:141
+msgid "PHP Post Max Size"
+msgstr ""
+
+#: includes/class-source-guardian-core.php:142
+#: includes/class-source-guardian-core.php:146
+#: includes/class-source-guardian-core.php:150
+#: includes/class-source-guardian-core.php:166
+msgid "Ini_get() function not available!"
+msgstr ""
+
+#: includes/class-source-guardian-core.php:145
+msgid "PHP Time Limit"
+msgstr ""
+
+#: includes/class-source-guardian-core.php:146
+msgid "Seconds"
+msgstr ""
+
+#: includes/class-source-guardian-core.php:149
+msgid "PHP Max Input Vars"
+msgstr ""
+
+#: includes/class-source-guardian-core.php:153
+msgid "SUHOSIN"
+msgstr ""
+
+#: includes/class-source-guardian-core.php:157
+msgid "MySQL Version"
+msgstr ""
+
+#: includes/class-source-guardian-core.php:161
+msgid "Max Upload Size"
+msgstr ""
+
+#: includes/class-source-guardian-core.php:165
+msgid "Display Errors"
+msgstr ""
+
+#: includes/class-source-guardian-core.php:198
+msgid "The Source Guardian Check plugin has been successfully activated"
+msgstr ""
+
+#: includes/class-source-guardian-core.php:200
+msgid "Click to view status"
+msgstr ""
+
+#: includes/template.php:16
+msgid "Source Guardian status"
+msgstr ""
+
+#: includes/template.php:31
+msgid "Server Information"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "SG Check"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://nasimnet.ir/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"With this plugin you can check the version of your server's Source "
+"Guardian loader."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "NasimNet"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://nasimnet.ir"
+msgstr ""

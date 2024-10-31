@@ -1,0 +1,169 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SG Check\n"
+"POT-Creation-Date: 2021-08-14 20:56+0430\n"
+"PO-Revision-Date: 2021-08-14 20:56+0430\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: sg-check.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/class-source-guardian-core.php:40
+#: includes/class-source-guardian-core.php:41
+msgid "Source Guardian Cheker"
+msgstr "تستر سورس گاردین"
+
+#: includes/class-source-guardian-core.php:63
+msgid "Unfortunately, server information cannot be accessed!"
+msgstr "متاسفانه دسترسی به اطلاعات سرور امکان پذیر نمی باشد !"
+
+#: includes/class-source-guardian-core.php:64
+msgid "Contact your hosting provider for more information"
+msgstr "برای اطلاعات بیشتر با هاستینگ خود تماس بگیرید"
+
+#. translators: latest source guardian version
+#: includes/class-source-guardian-core.php:67
+#: includes/class-source-guardian-core.php:100
+#, php-format
+msgid "The latest version is the current version of %s."
+msgstr "آخرین نسخه ، نسخه %s است."
+
+#: includes/class-source-guardian-core.php:80
+msgid "Source Guardian Loader is not installed !"
+msgstr "لودر سورس گاردین نصب نشده است !"
+
+#: includes/class-source-guardian-core.php:81
+msgid "Ask your host to install and enable it for you"
+msgstr "از هاستینگ خود بخواهید تا آن را برای شما نصب و فعال کند."
+
+#: includes/class-source-guardian-core.php:82
+#: includes/class-source-guardian-core.php:103
+msgid "more information"
+msgstr "اطلاعات بیشتر"
+
+#: includes/class-source-guardian-core.php:89
+msgid "Source Guardian Version : "
+msgstr "نسخه سورس گاردین : "
+
+#: includes/class-source-guardian-core.php:96
+msgid "Source Guardian version is outdated !"
+msgstr "لودر سورس گاردین قدیمی است !"
+
+#: includes/class-source-guardian-core.php:97
+msgid "Ask your hosting provider to update the Source Guardian loader."
+msgstr "از هاستینگ خود بخواهید تا لودر سورس گاردین را برای شما بروزرسانی کند."
+
+#: includes/class-source-guardian-core.php:112
+msgid "congratulations ! Source Guardian loaders are up to date"
+msgstr "تبریک ! لودر سورس گاردین بروز است ."
+
+#: includes/class-source-guardian-core.php:113
+msgid "Good luck !"
+msgstr "موفق باشید!"
+
+#: includes/class-source-guardian-core.php:129
+msgid "Server OS"
+msgstr "نرم افزار سرور"
+
+#: includes/class-source-guardian-core.php:133
+msgid "Server Software"
+msgstr "نرم افزار سرور"
+
+#: includes/class-source-guardian-core.php:137
+msgid "PHP version"
+msgstr "نسخه PHP"
+
+#: includes/class-source-guardian-core.php:138
+msgid "phpversion() function not available!"
+msgstr "تابع phpversion() در دسترس نیست !"
+
+#: includes/class-source-guardian-core.php:141
+msgid "PHP Post Max Size"
+msgstr "PHP Post Max Size"
+
+#: includes/class-source-guardian-core.php:142
+#: includes/class-source-guardian-core.php:146
+#: includes/class-source-guardian-core.php:150
+#: includes/class-source-guardian-core.php:166
+msgid "Ini_get() function not available!"
+msgstr "تابع Ini_get() در دسترس نیست !"
+
+#: includes/class-source-guardian-core.php:145
+msgid "PHP Time Limit"
+msgstr "PHP Time Limit"
+
+#: includes/class-source-guardian-core.php:146
+msgid "Seconds"
+msgstr "ثانیه"
+
+#: includes/class-source-guardian-core.php:149
+msgid "PHP Max Input Vars"
+msgstr "PHP Max Input Vars"
+
+#: includes/class-source-guardian-core.php:153
+msgid "SUHOSIN"
+msgstr "SUHOSIN"
+
+#: includes/class-source-guardian-core.php:157
+msgid "MySQL Version"
+msgstr "نسخه MySQL"
+
+#: includes/class-source-guardian-core.php:161
+msgid "Max Upload Size"
+msgstr "Max Upload Size"
+
+#: includes/class-source-guardian-core.php:165
+msgid "Display Errors"
+msgstr "نمایش خطاها"
+
+#: includes/class-source-guardian-core.php:198
+msgid "The Source Guardian Check plugin has been successfully activated"
+msgstr "افزونه تستر سورس گاردین با موفقیت نصب و فعال شد."
+
+#: includes/class-source-guardian-core.php:200
+msgid "Click to view status"
+msgstr "برای مشاهده وضعیت کلیک کنید"
+
+#: includes/template.php:16
+msgid "Source Guardian status"
+msgstr "وضعیت سورس گاردین"
+
+#: includes/template.php:31
+msgid "Server Information"
+msgstr "اطلاعات سرور"
+
+#. Plugin Name of the plugin/theme
+msgid "SG Check"
+msgstr "تستر سورس گاردین"
+
+#. Plugin URI of the plugin/theme
+msgid "https://nasimnet.ir/"
+msgstr "https://nasimnet.ir/"
+
+#. Description of the plugin/theme
+msgid ""
+"With this plugin you can check the version of your server's Source Guardian "
+"loader."
+msgstr ""
+"با این افزونه می توانید از وضعیت لودر سورس گاردین بر روی هاست خود مطلع شوید."
+
+#. Author of the plugin/theme
+msgid "NasimNet"
+msgstr "نسیم نت"
+
+#. Author URI of the plugin/theme
+msgid "https://nasimnet.ir"
+msgstr "https://nasimnet.ir"
